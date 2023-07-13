@@ -4,9 +4,9 @@
 - 📫 Entre em contato e-mail: luizobara@gmail.com
 
 <div align="center">
-  <a href="https://github.com/LuizObara">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LuizObara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizObara&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/GustavoObara">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=GustavoObara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoObara&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ##
