@@ -3,7 +3,7 @@
 - 🌱 Atualmente faço Análise e Desenvolvimento de Sistemas na FACENS
 - 📫 Entre em contato e-mail: luizobara@gmail.com
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/GustavoObara">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GustavoObara&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoObara&layout=compact&theme=dark"/>
