@@ -3,9 +3,9 @@
 - 🌱 Atualmente faço Análise e Desenvolvimento de Sistemas na FACENS 4º Semestre
 - 📫 Entre em contato e-mail: luizobara@gmail.com
 
-<div align="center">
-  <a href="https://github.com/GustavoObara"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gustavoobara&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <a href="https://github.com/GustavoObara"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoObara&layout=compact&theme=midnight-purple"/>
+<div align="start">
+  <a href="https://github.com/GustavoObara"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gustavoobara&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/GustavoObara"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoObara&layout=compact&theme=transparent"/>
 </div>
   
 <hr>
