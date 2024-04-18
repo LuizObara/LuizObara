@@ -1,6 +1,6 @@
 ### Olá Mundo👋! Me chamo Luiz Obara.
 
-- 🌱 Atualmente faço Análise e Desenvolvimento de Sistemas na FACENS 4º Semestre
+- 🌱 Atualmente faço Análise e Desenvolvimento de Sistemas na FACENS 5º Semestre
 - 📫 Entre em contato e-mail: luizobara@gmail.com
 
 <div align="start">
