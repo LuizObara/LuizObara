@@ -15,7 +15,7 @@ Aqui estão alguns dos meus principais projetos:
 - **[Baglink](https://github.com/GustavoObara/baglink)** - Uma plataforma para gerenciar URLs e listas de compras compartilhadas. Criado com *Next.js* e *Supabase*, esse projeto possibilita aos usuários organizarem e compartilharem suas listas de compras online.
 - **[Link-Preview-Api](https://github.com/GustavoObara/link-preview-api)** - API Flask para pré-visualização de links com scraping de preços e imagens. Utilizado em meu projeto [Baglink](https://github.com/GustavoObara/baglink/blob/main/components/link-preview-row.tsx) para obter as informações da url
 - **[Spotify-Android](https://github.com/GustavoObara/Spotify-Android)** - Projeto desenvolvido no 5º Semestre da graduação, realizamos uma nova interface para usuários do spotify no Android, desenvolvido com Android Studio visando aprimorar nossas habilidades aprendidas na matéria de Desenvolvimento Mobile e Arquitetura Web.
-- **[Spotify Web](https://github.com/GustavoObara/spotify)** - Projeto de Fabrica de projetos IV (4º Semestre - FACENS) 
+- **[Spotify Web](https://github.com/GustavoObara/spotify)** - Projeto de Fabrica de projetos IV (4º Semestre - FACENS) - utilziando Angularjs, e obtendo dados do usuário pela [Web API](https://developer.spotify.com/documentation/web-api) do Spotify
 
 ---
 
