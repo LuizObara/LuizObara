@@ -56,6 +56,6 @@ Estou sempre aberto para discutir ideias, colaborar em projetos ou explorar nova
 ## ⚡ *GitHub Stats*
 
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoObara&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoObara&layout=compact&theme=transparent"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoObara&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoObara&layout=compact&theme=gotham"/>
 </div>
