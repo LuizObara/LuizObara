@@ -8,6 +8,28 @@ Acredito que a tecnologia pode transformar o mundo e, por isso, estou sempre exp
 
 ---
 
+## 📚 **Tecnologias**
+
+<div align="left">
+  <!-- Se você está procurando pelos icones de skills você encontra aqui -> https://github.com/tandpfun/skill-icons -->
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg" height="30" width="40" alt="angular logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" height="30" alt="nextjs logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height="30" alt="react logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="30" alt="typescript logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg" height="30" alt="supabase logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Dark.svg" height="30" alt="android studio logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" height="30" alt="spring logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height="30" alt="java logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" height="30" alt="python logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" height="30" alt="postgresql logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="30" alt="mysql logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="30" alt="git logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordJS-Dark.svg" height="30" alt="discordjs logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" height="30" alt="postman logo"  />
+</div>
+
 ## 👨‍💻 *Projetos em Destaque*
 
 Aqui estão alguns dos meus principais projetos:
