@@ -8,7 +8,7 @@ Acredito que a tecnologia pode transformar o mundo e, por isso, estou sempre exp
 
 ---
 
-## 📚 **Tecnologias**
+## 📚 *Tecnologias*
 
 <div align="left">
   <!-- Se você está procurando pelos icones de skills você encontra aqui -> https://github.com/tandpfun/skill-icons -->
