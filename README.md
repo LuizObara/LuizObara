@@ -49,6 +49,7 @@ Estou sempre aberto para discutir ideias, colaborar em projetos ou explorar nova
   <a href="https://instagram.com/luizobara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-obara-544945218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:luizobara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://twitch.tv/luizobara"><img src="https://img.shields.io/twitch/status/luizobara?style=for-the-badge&logo=twitch&logoColor=white&labelColor=9146FF" target="_blank"></a>
 </div>
 
 ---
